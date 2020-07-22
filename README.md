@@ -29,5 +29,11 @@ Real Time Face Detection using GUI in Matlab.
    ### 4. Upper Body
    ![](/Result/UpperBody.png)
       
-
+## Authors      
+* **Sri Harsha Vadathya** - 170108037 
    
+<!-- ## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc -->
