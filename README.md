@@ -20,6 +20,12 @@ Real Time Face Detection using GUI in Matlab.
    3. triggerconfig.m - triggers Webcam to start video.
    
 # Result
-   1. Face 
+   1. Blank(user Interface) 
+      https://github.com/HARSHA1522/RealTimeFaceDetection/blob/master/Result/Blank.png
+   2. Face
+      https://github.com/HARSHA1522/RealTimeFaceDetection/blob/master/Result/Face.png
+   3. Eyes
+      https://github.com/HARSHA1522/RealTimeFaceDetection/blob/master/Result/Eyes.png
+   4. Upper Body
       
    
