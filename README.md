@@ -21,7 +21,7 @@ Real Time Face Detection using GUI in Matlab.
    
 ## Result
    # 1. Blank(user Interface) 
-      ![Blank](https://user-images.githubusercontent.com/39313541/88231071-30d7e180-cc91-11ea-965b-37b755b9a697.png) 
+      <img src="https://github.com/HARSHA1522/RealTimeFaceDetection/blob/master/Result/Blank.png" width="40%"> 
    # 2. Face
       ![Face](https://user-images.githubusercontent.com/39313541/88231111-40572a80-cc91-11ea-8117-aac831cf8a4e.png) 
    # 3. Eyes
